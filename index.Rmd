@@ -32,3 +32,4 @@ description: "This is a minimal example of using the bookdown package to write a
 * [FP for Scientist](https://axect.gitlab.io/FP/fp_intro.html)
 * [Machine Learning with Rust](https://axect.github.io/ML_with_Rust)
 * [Neutron Star Cooling Note](https://axect.github.io/NSCool_notes)
+* [Peroxide Gitbook](https://axect.github.io/Peroxide_Gitbook)
