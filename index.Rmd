@@ -14,11 +14,14 @@ description: "This is a minimal example of using the bookdown package to write a
 
 # Curriculum Vitae
 
+* [CV file](./tg_kim_CV.pdf)
+
 ## Education
 
 * Ph.D: Dept. of Physics, Yonsei University (2017 - )
 * B.S: Dept. of Astronomy, Yonsei University (2012 - 2016)
-* Keywords: Theoretical physics & Scientific computation
+* Research Topic
+    * Numerical Relativity - Modelling Neutron star
 
 ## Skills
 
